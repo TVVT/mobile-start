@@ -30,7 +30,7 @@ module.exports = function (grunt) {
         watch: {
             livereload: {
                 // 指定要监控的文件
-                files: ['*.html', 'css/*', 'js/*', 'images/*', 'less/*'],
+                files: ['*.html', 'js/*', 'images/*', 'less/*'],
                 // less变动，立即编译
                 tasks: ["less"],
                 options: {
