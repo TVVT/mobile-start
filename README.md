@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-终端里，进入到本文件夹，执行`grunt`即可
+终端里，进入到本文件夹，执行`npm install`安装需要的npm包（尽量使用cnpm：`npm config set registry http://registry.cnpmjs.org`，否则你会想死的赶脚）。安装完毕后，执行`grunt`即可
 
 ## 功能：
 

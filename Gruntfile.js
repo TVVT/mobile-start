@@ -74,7 +74,7 @@ module.exports = function (grunt) {
     });
 
     // 加载插件
-    grunt.loadNpmTasks('grunt-contrib-less');
+    grunt.loadNpmTasks('yhd-grunt-less');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks("grunt-contrib-copy");
     grunt.loadNpmTasks('grunt-contrib-cssmin');

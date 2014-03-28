@@ -1,10 +1,10 @@
 {
   "name": "newProject",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
     "grunt": ">0.4.1",
     "grunt-contrib-copy": ">0.4.0",
-    "grunt-contrib-less": ">0.1.1",
+    "yhd-grunt-less": ">0.1.1",
     "grunt-contrib-watch": ">0.5.3",
     "grunt-contrib-cssmin": "~0.6.1"
   }
