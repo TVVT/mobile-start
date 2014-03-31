@@ -4,6 +4,10 @@
 
     git clone https://github.com/TVVT/mobile-start.git
 
+删除与git的关联：
+    
+    rm -rf .git
+
 重命名后使用
 
     mv mobile-start myProject
